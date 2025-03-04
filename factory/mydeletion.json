@@ -1,0 +1,9 @@
+{
+	"name": "mydeletion",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c4dd913-40d0-4313-932e-e2999c44c6b3",
+		"tenantId": "0c3ce8e9-8968-47e3-8afb-efb4ce9d2043"
+	}
+}
